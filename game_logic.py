@@ -41,13 +41,13 @@ while True:
     if (direccion2 == "ARRIBA" or direccion2 == "ABAJO" or direccion2 == "IZQUIERDA" or direccion2 == "DERECHA"):
         nuevaX = posX2
         nuevaY = posY2
-        if direccion1 == "ARRIBA":
+        if direccion2 == "ARRIBA":
             nuevaY = posY2 - 1
-        elif direccion1 == "ABAJO":
+        elif direccion2 == "ABAJO":
             nuevaY = posY2 + 1
-        elif direccion1 == "IZQUIERDA":
+        elif direccion2 == "IZQUIERDA":
             nuevaX = posX2 - 1
-        elif direccion1 == "DERECHA":
+        elif direccion2 == "DERECHA":
             nuevaX = posX2 + 1
 
         if nuevaX <= 0 or nuevaX >= 18 or nuevaY <= 0 or nuevaY >= 16:
