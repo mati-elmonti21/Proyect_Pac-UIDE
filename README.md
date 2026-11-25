@@ -19,7 +19,7 @@ Requiere Python 3. Desde la carpeta del repositorio:
 | `juego.py` | Menú que se repite hasta «Salir» (parte de DF1) | Terminado |
 | `game_logic.py` | Validación de la jugada (DF2) y fin de la partida (DF3) | Terminado |
 | `server.py` | Estructura inicial del servidor correspondiente al Jugador 1 | Iniciado |
-| `client.py` | Estructura del cliente correspondiente al Jugador 2 | Terminado |
+| `client.py` | Estructura del cliente correspondiente al Jugador 2 | Iniciado |
 | `diseno/` | Diagramas `.rap` de la Fase 2 | Subido |
 
 ## Del diseño al código
