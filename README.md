@@ -32,7 +32,7 @@ Requiere Python 3. Desde la carpeta del repositorio:
 
 ## Video explicativo
 
-[Enlace al video] (máximo 5 minutos: el menú, la validación con una jugada inválida, el fin de la partida y cómo tradujimos un diagrama a código).
+[[Enlace al video]]https://youtu.be/p0p1jJHevd0
 
 ## Licencia
 
