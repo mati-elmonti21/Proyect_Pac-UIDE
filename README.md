@@ -49,6 +49,4 @@ Declaramos que el código de este repositorio fue escrito por los integrantes de
 | Python | Python Software Foundation | Desarrollo del videojuego | PSF License |
 
 ### Uso de IA
-
-| Herramienta | Para qué la usamos | Qué revisamos o cambiamos nosotros |
-|---|---|---|
+No se usaron herramientas de IA.
