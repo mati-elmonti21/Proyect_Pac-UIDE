@@ -32,7 +32,7 @@ Requiere Python 3. Desde la carpeta del repositorio:
 
 ## Video explicativo
 
-[[Enlace al video]]https://youtu.be/p0p1jJHevd0
+https://youtu.be/p0p1jJHevd0
 
 ## Licencia
 
